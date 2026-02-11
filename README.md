@@ -1,4 +1,4 @@
-# ESG-Pragati-Pilot---Designing-a-Pilottable-ESG-Aligned-Tax-Incentive-Framework-for-MSMEs-in-Punjab
+# ESG Pragati Pilot - Designing a Pilottable ESG-Aligned Tax Incentive Framework for MSMEs in Punjab
 The core proposal is a framework that links a rebate on the State Goods and Services Tax (SGST) to verifiable ESG benchmarks. Over a 16-week action plan, the project moves from secondary research and stakeholder engagement to co-creating a draft policy, building a simplified "ESG Pragati Toolkit" for MSMEs in English and Punjabi.
 Key Deliverables:
 
